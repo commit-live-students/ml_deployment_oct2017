@@ -1,0 +1,7 @@
+Some Docker instructions look similar 
+and cause confusion among developers 
+who just started using Docker or do 
+it irregularly. In this post I will explain 
+the difference between CMD, RUN, and ENTRYPOINT on examples.
+
+"""I AM A GREYATOM STUDENT !!!""""GREYATOM ROCKS!
